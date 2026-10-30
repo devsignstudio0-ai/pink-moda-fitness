@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+:root {
+    --cor--icones:#E11592;
+    --cor--letras:#292928;
+    --cor--destaque:#fdf0fb;
+    --fonte-principal: 'Poppins', sans-serif;
+    --fonte-destaque: 'Anton', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
